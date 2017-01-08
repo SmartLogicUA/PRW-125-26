@@ -1,0 +1,6 @@
+PRW-125/26 v1.0
+
+- Read ISO EM-MARIN format cards (125 kHz, 64 bits, amplitude modulation, coding - Manchester).
+- Visual and acoustic indication of the card reading;
+- Protection against repeated reading of the same card in a row;
+- Software Updates reader via RS-232.
