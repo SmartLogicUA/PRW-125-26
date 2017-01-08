@@ -1,0 +1,6 @@
+BootLoader v1.9 for board v9.2.X (speed - 9600)
+Fuse bit: BODLEVEL=0;
+          BODEN=0;
+          BOOTRST=0;
+          BOOTSZ0=0;
+          BOOTSZ1=0;    

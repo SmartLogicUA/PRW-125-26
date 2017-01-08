@@ -1,33 +1,36 @@
 # Object files
 *.o
-*.ko
 *.obj
 *.elf
+*.c~
+*.h~
+*.cof
+*.rom
+*.i
+*.lst
+*.inc
+*.asm
+*.a
+*.c_cbf
+*.h_cbf
 
 # Precompiled Headers
-*.gch
-*.pch
+*.hdr
+*.h!
+*.c!
+*.str*
 
 # Libraries
 *.lib
-*.a
-*.la
-*.lo
+*.ol
+*.al
 
 # Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
 
 # Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
 *.hex
 
 # Debug files
-*.dSYM/
-*.su
+*.map
+*.vec
+*.sym*
